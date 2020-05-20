@@ -2,12 +2,12 @@
   <img alt="Main Site" src="ecrt_19_awareness_website.png" width="650px">
 </div>
 
-# EthiopiaCOVID-19 Response Team Main Site
+# Diaspora Contact Tracers Landing Page
 
 ## View current build (Builds from master branch)
 
 ```
-https://ethiocovid19rt.com
+https://tracers.ethiodiasporacovid.com/
 ```
 
 ## Project setup
