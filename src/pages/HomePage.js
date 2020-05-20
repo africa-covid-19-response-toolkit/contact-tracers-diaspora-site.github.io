@@ -10,7 +10,7 @@ const AboutContent = () => {
             <Col lg="12" className="text-center">
               <img
                 src="https://gcn.com/articles/2020/04/30/-/media/GIG/EDIT_SHARED/Public-Safety/contacttracingapp.jpg"
-                className="img-responsive"
+                className="img-fluid"
               />
             </Col>
           </Row>
