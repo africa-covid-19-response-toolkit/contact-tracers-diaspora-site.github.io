@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="Main Site" src="ecrt_19_awareness_website.png" width="650px">
-</div>
-
 # Diaspora Contact Tracers Landing Page
 
 ## View current build (Builds from master branch)
