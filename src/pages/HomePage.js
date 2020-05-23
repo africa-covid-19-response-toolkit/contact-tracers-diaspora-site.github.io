@@ -44,7 +44,7 @@ const AboutContent = () => {
                   src="https://www.youtube.com/embed/yi88w-n2EEc"
                   frameBorder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen
+                  allowFullScreen
                 ></iframe>
               </p>
 
