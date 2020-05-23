@@ -35,7 +35,7 @@ const AboutContent = () => {
                 <iframe
                   width="100%"
                   height="355"
-                  src="https://www.youtube.com/embed/yi88w-n2EEc"
+                  src={`https://www.youtube-nocookie.com/embed/yi88w-n2EEc?rel=0&showinfo=0&controls=0`}
                   frameBorder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
