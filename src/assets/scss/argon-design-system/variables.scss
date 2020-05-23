@@ -72,7 +72,7 @@ $colors: map-merge(
 );
 
 $default: #ffd600 !default;
-$primary: #ffd600 !default;
+$primary: $blue !default;
 $secondary: #007771 !default;
 $success: $green !default;
 $info: $teal !default;
@@ -95,8 +95,8 @@ $github: #222222 !default;
 $theme-colors: () !default;
 $theme-colors: map-merge(
   (
-    'default': $default,
-    'primary': $primary,
+    'default': $blue,
+    'primary': $blue,
     'secondary': $secondary,
     'success': $success,
     'info': $info,

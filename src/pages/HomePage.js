@@ -12,7 +12,7 @@ import {
 const AboutContent = () => {
   return (
     <div>
-      <section className="section bg-white">
+      <section className="section bg-white pt-5">
         <Container>
           {/* <Row className="row-grid align-items-center">
             <Col lg="12" className="text-center">
@@ -25,7 +25,25 @@ const AboutContent = () => {
           </Row> */}
           <Row className="row-grid align-items-center">
             <Col lg="6">
+              <h4 className="text-center">
+                Learn how to become a Contact Tracer & earn $14 - $35/hour
+              </h4>
+
+              <p>&nbsp;</p>
+
+              <p className="text-black">
+                <iframe
+                  width="100%"
+                  height="355"
+                  src="https://www.youtube.com/embed/yi88w-n2EEc"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
+              </p>
+
               <h2>What is Contact Tracing?</h2>
+
               <p className="text-black">
                 Contact tracing is a full time commitment given the training
                 requirement and access to various necessary systems. In order to
@@ -36,16 +54,6 @@ const AboutContent = () => {
                   Contact Tracing free course
                 </a>
                 .
-              </p>
-              <p className="text-black">
-                <iframe
-                  width="100%"
-                  height="355"
-                  src="https://www.youtube.com/embed/yi88w-n2EEc"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                ></iframe>
               </p>
 
               <p>
@@ -61,7 +69,7 @@ const AboutContent = () => {
                 title="Form"
                 src="https://docs.google.com/forms/d/e/1FAIpQLScx58L363qukdxDFKBRvFgnQbKIfqVHIiz8e90YPDv2hCuwmA/viewform?embedded=true"
                 width="100%"
-                height="900"
+                height="1100"
                 frameBorder="0"
                 marginHeight="0"
                 marginWidth="0"
@@ -194,7 +202,7 @@ const AboutPage = () => {
   return (
     <>
       <MainLayout
-        title="Ethiopians for Ethiopians Get Jobs"
+        title="Ethiopians Helping Ethiopians Get Jobs"
         description="Lost your job? Consider becoming a contact tracer."
         cardStyle={true}
       >
