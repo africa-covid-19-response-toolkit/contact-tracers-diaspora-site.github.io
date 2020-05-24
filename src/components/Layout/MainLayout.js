@@ -20,7 +20,13 @@ const MainBody = ({ cardStyle, children }) => {
   }
 }
 
-const MainLayout = ({ title, description, children, cardStyle = true }) => {
+const MainLayout = ({
+  title,
+  description,
+  language = 'english',
+  children,
+  cardStyle = true,
+}) => {
   const mainRef = useRef(null)
 
   useEffect(() => {
@@ -31,9 +37,12 @@ const MainLayout = ({ title, description, children, cardStyle = true }) => {
 
   return (
     <>
-      {/* <MainNavbar /> */}
+      <MainNavbar language={language} />
       <main className="profile-page" ref={mainRef}>
-        <section className="section section-lg section-shaped pb-150">
+        <section
+          className="section section-lg section-shaped pb-150"
+          // style={{ paddingTop: '40px' }}
+        >
           {/* Circles background */}
           <div className="shape shape-style-1 shape-default alpha-4">
             <span />

@@ -26,7 +26,8 @@ const AboutContent = () => {
           <Row className="row-grid align-items-center">
             <Col lg="6">
               <h4 className="text-center">
-                Learn how to become a Contact Tracer & earn $14 - $35/hour
+                ውድ ስራ ፋላጊ ኢትዮጵያኖች የስራ እድል ክፍያ $14 እስከ $35 በሰአት የ COVID-19 የንክኪ
+                የለይቶ ማውጣትን "Contact Tracer" ስራ ለመመዝገብ ከስር ያለውን ሊንክ ይጫኑ
               </h4>
 
               <p>&nbsp;</p>
@@ -72,7 +73,7 @@ const AboutContent = () => {
                 title="Form"
                 src="https://docs.google.com/forms/d/e/1FAIpQLScx58L363qukdxDFKBRvFgnQbKIfqVHIiz8e90YPDv2hCuwmA/viewform?embedded=true"
                 width="100%"
-                height="1050"
+                height="1200"
                 frameBorder="0"
                 marginHeight="0"
                 marginWidth="0"
@@ -104,71 +105,45 @@ const PressReleaseContent = () => {
           <Row className="row-grid align-items-center">
             <Col className="order-lg-1" lg="12">
               <Card className="shadow border-0 px-lg-5 py-lg-5">
-                <h2>Press Release</h2>
+                <h2>ጋዜጣዊ መግለጫ</h2>
                 <p className="text-black">
-                  A partnership of nonprofit organizations, health
-                  professionals, business leaders and Ethiopian-American
-                  citizens working in collaboration with the Ethiopian Embassy
-                  has launched an initiative to connect Ethiopian Diaspora
-                  members with contact tracing jobs across the United States.
+                  ውድ ኢትዮጵያኖች በዚህበምንኖርበት ከተማ የኮቪድ 19 ቁጥር ከቀን ወደ ቀን እየጨመረ መምጣቱ እና
+                  አሳሳቢ ደረጃ ላይ እንደደረሰ የምታውቁት ነገር ነው:: በመሆኑም በዋሽንግተን ዲሲ የሚገኘው ኤምበሲ
+                  ከማንኛውም ግዜ በበለጠ ከዳያስፖራው ጋ በመቆም እና እሁን ዳያስፓራውን ያጋጠመው ከስራ ገበታ
+                  መስናበት እንዲሁም በስራ ማጣት ምክንያት ህልውናችው አስጊ ሁኔታ ላይ ያላችሁትን ወገኖች ከግምት
+                  በማስገባት ኤምባሲው የሚከተለውን መረጃ ሊያቀርብላችው ግድ ይለዋል::
                 </p>
+
                 <p className="text-black">
-                  The initiative seeks to hire, train and deploy thousands of
-                  Ethiopian Diaspora members to do contact tracing and thus put
-                  newly jobless members in the community back to work.
+                  በስጋው እዚህ በነፍሱ ግን አገሩ ያለው እናንተ ኢትዮጵያኖች ለአገር እና ለወገኖቻችው እስከዛሬ
+                  ድረስ የጀርባ አጥንት ሆናችሁ ለተፈናቀለው: ለተራበው: ለታረዘው እርዳታ ስትጠየቁ በደስታ
+                  ስትለግሱና ለወገን ስትደርሱ የነበራችው ናችው::
                 </p>
+
                 <p className="text-black">
-                  State and local governments across the United States are
-                  building workforces of contact tracers to confront the
-                  COVID-19 health crisis. Federal and State Governments have
-                  budgeted billions of dollars and estimates for the number of
-                  people needed nationwide for contact tracing range from
-                  100,000 to as high as 300,000.
+                  አሁን ደግሞ እኛ ለናንተ የምንደርስበት ግዜ በመሆኑ የተለያዩ የህክምና ባለሞያዎች, ባለ ሀብቶች,
+                  የተማሩ ግለሰቦች ከኤምባሲው ጋ በመተባበር ለእናንተ የስራ እድል ፈጥሯል::
                 </p>
+
                 <p className="text-black">
-                  Contact tracing can be done from home on a full- or part-time
-                  basis. The work is mostly phone-based and pays an hourly wage
-                  of $15 to $35. Work contracts typically range from 6 to 12
-                  months.
+                  ይህንንም መረጃ የኢምባሲው ድህረ ገፅ በመግባት ስለ ስራው ሙሉ መረጃ ያገኛሉ:: እርግጥ ነው ይህ
+                  ወረርሽኝ በአገራችንም ይህ ነው የማይባል ችግር ዜጎቻችን ላይ እንደሚያደርስ ግልፅ ነው በመሆኑም
+                  መንግስት, እርዳታ ሰጪ ድርጅቶች እንዲሁም ግለሰቦች ሊመጣ ለሚችለው ችግር አስቀድመው እየተረባረቡ
+                  ይገኛሉ::
                 </p>
+
                 <p className="text-black">
-                  The responsibilities of contact tracers include calling all
-                  contacts of anyone diagnosed with COVID-19, determining
-                  exposure, assessing symptoms, referring for testing according
-                  to established protocols, and providing them with instructions
-                  for isolation or quarantine. Contact tracers will maintain
-                  ongoing communication with contacts to assess symptoms, ensure
-                  compliance with quarantine and determine social support needs.
+                  ኤምባሲው ዳያስፓራውን በገጠመው አለም አቀፋዊው ውድቀት በሚችለው አቅም ሁሉ ሊታደጋችው ተግቶ
+                  እየሰራ ይገኛል::
                 </p>
+
                 <p className="text-black">
-                  Successful contact tracing among immigrant communities will
-                  require contact tracers with multilingual and multicultural
-                  backgrounds as “cultural literacy” is key to developing trust
-                  with members in these and other hard-to-reach communities.
+                  ከላይ እንደተገለፅውም በድህረ ግፃችን ገብታችው የስራ ማመልከቻውን ቅፅ መሙላት ትችላላችው::
                 </p>
+
                 <p className="text-black">
-                  Health departments at the State and local levels recognize the
-                  barriers they face—such as language, cultural norms, and fears
-                  due to immigration status—while trying to improve access to
-                  health and human services among immigrant communities, and
-                  understand the value of partnering with community-based
-                  organizations to overcome such barriers.
-                </p>
-                <p className="text-black">
-                  The initiative will work closely with the health departments
-                  of State and local governments across the United States, as
-                  well as with the Ethiopian Embassy, to mobilize and engage the
-                  Ethiopian Diaspora community in battling the spread of
-                  COVID-19 while helping unemployed members find well-paying
-                  jobs as contact tracers.
-                </p>
-                <p className="text-black">
-                  Contact tracers will be required to be computer literate and
-                  have their own working telephone and computer/mobile
-                  electronic device. In addition, a high school diploma is
-                  required, while some college training is preferred. Applicants
-                  must be 18 years of age or older and be legally authorized to
-                  work in the US.
+                  በዚህ አጋጣሚም በዚህ ቫይረስ ህይወታቸውን ላጡ ኢትዮጵያውያን ነፍሳቸውን ይማር እያልን
+                  ለቤተሰቦቻቸው ደግሞ መፅናናትን እንመኛለን::
                 </p>
               </Card>
             </Col>
@@ -205,10 +180,10 @@ const HomePage = () => {
   return (
     <>
       <MainLayout
-        title="🇪🇹 Ethiopians Helping Ethiopians Get Jobs"
-        description="Lost your job? Consider becoming a contact tracer."
+        title="🇪🇹 ኢትዮጵያውያን ስራዎችን እንዲያገኙ ኢትዮጵያውያንን መርዳት"
+        description="ለስራ ፈላጊዎች የcovid 19 የንክኪ የለይቶ ማውጣትን ስራ ለመመዝገብ ከስር ያለውን ሊንክ ይጫኑ"
         cardStyle={true}
-        language="english"
+        language="amharic"
       >
         <AboutContent />
       </MainLayout>
